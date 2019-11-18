@@ -18,7 +18,7 @@ _This website is meant to showcase the work of the programmer created during the
 
 ## Support and contact details
 
-_If you find any issues with the code or have any questions, please feel free to contact the developer at jake.chustz@gmail.com_
+_If you find any issues with the code or have any questions, please feel free to contact the developer at jake.chustz@gmail.com._
 
 ## Technologies Used
 
